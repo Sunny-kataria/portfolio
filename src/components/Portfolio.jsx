@@ -86,12 +86,12 @@ const portfolios = [
   {
     id: 1,
     src: tictactoe,
-    githubUrl: "https://github.com/Sunny-kataria/js-project-/tree/master/Tic%20Tac%20Toe"
+    githubUrl: "https://sunny-kataria.github.io/tic-tac-toe/"
   },
   {
     id: 2,
     src: password,
-    githubUrl: "https://github.com/Sunny-kataria/js-project-/tree/master/password%20Generator"
+    githubUrl: "https://sunny-kataria.github.io/password-generator/"
   },
   {
     id: 3,
@@ -101,17 +101,17 @@ const portfolios = [
   {
     id: 4,
     src: spotify,
-    githubUrl: "https://github.com/Sunny-kataria/spotify-clone-home-page-/tree/main/spotifyClone"
+    githubUrl: "https://sunny-kataria.github.io/spotify-clone/"
   },
   {
     id: 5,
     src: portfolio,
-    githubUrl: "https://github.com/Sunny-kataria/portfolio"
+    githubUrl: "https://aboutmore.netlify.app/"
   },
   {
     id: 6,
     src: reactWeather,
-    githubUrl: "https://github.com/Sunny-kataria/js-project-/tree/master/whether%20app"
+    githubUrl: "https://sunny-kataria.github.io/weather-app/"
   },
 ];
 
@@ -146,7 +146,7 @@ const Portfolio = () => {
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
                   onClick={() => redirectToGitHub(githubUrl)}
                 >
-                  Code
+                  Demo
                 </button>
               </div>
             </div>
