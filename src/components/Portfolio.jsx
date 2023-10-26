@@ -73,14 +73,14 @@
 
 // export default Portfolio;
 
-
 import React from "react";
 import tictactoe from "../assets/portfolio/tictactoe.jpg";
 import password from "../assets/portfolio/password.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import portfolio from "../assets/portfolio/portfolio.jpg";
+// import navbar from "../assets/portfolio/navbar.jpg";
+import spotify from "../assets/portfolio/spotify.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import shoppingcart from "../assets/portfolio/shoppingcart.jpg"
 
 const portfolios = [
   {
@@ -95,18 +95,18 @@ const portfolios = [
   },
   {
     id: 3,
-    src: navbar,
-    githubUrl: "https://github.com/Sunny-kataria/navbar-project"
+    src: shoppingcart,
+    githubUrl: "https://github.com/Sunny-kataria/cart"
   },
   {
     id: 4,
-    src: reactSmooth,
-    githubUrl: "https://github.com/Sunny-kataria/react-smooth-scroll-project"
+    src: spotify,
+    githubUrl: "https://github.com/Sunny-kataria/spotify-clone-home-page-/tree/main/spotifyClone"
   },
   {
     id: 5,
-    src: installNode,
-    githubUrl: "https://github.com/Sunny-kataria/install-node-project"
+    src: portfolio,
+    githubUrl: "https://github.com/Sunny-kataria/portfolio"
   },
   {
     id: 6,
