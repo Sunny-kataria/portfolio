@@ -96,7 +96,8 @@ const portfolios = [
   {
     id: 3,
     src: shoppingcart,
-    githubUrl: "https://github.com/Sunny-kataria/cart"
+    githubUrl: " https://main--reactreduxaddtocart.netlify.app/"
+    
   },
   {
     id: 4,
