@@ -77,7 +77,7 @@ import React from "react";
 import tictactoe from "../assets/portfolio/tictactoe.jpg";
 import password from "../assets/portfolio/password.jpg";
 import portfolio from "../assets/portfolio/portfolio.jpg";
-// import navbar from "../assets/portfolio/navbar.jpg";
+import SearchImage from "../assets/portfolio/SearchImage.jpg";
 import spotify from "../assets/portfolio/spotify.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 import shoppingcart from "../assets/portfolio/shoppingcart.jpg"
@@ -114,6 +114,11 @@ const portfolios = [
     src: reactWeather,
     githubUrl: "https://sunny-kataria.github.io/weather-app/"
   },
+  {
+    id: 7,
+    src: SearchImage,
+    githubUrl: "https://searchimage01.netlify.app/"
+  }
 ];
 
 const Portfolio = () => {
