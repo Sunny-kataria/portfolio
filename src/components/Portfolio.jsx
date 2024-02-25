@@ -80,28 +80,30 @@ import portfolio from "../assets/portfolio/portfolio.jpg";
 import SearchImage from "../assets/portfolio/SearchImage.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 import shoppingcart from "../assets/portfolio/shoppingcart.jpg"
+import chatApp from "../assets/portfolio/chataap.jpg";
 
 const portfolios = [
   {
     id: 1,
-    src: tictactoe,
-    githubUrl: "https://sunny-kataria.github.io/tic-tac-toe/"
+    src: chatApp,
+    githubUrl: "https://chat-app-4.onrender.com/"
   },
-  {
-    id: 2,
-    src: password,
-    githubUrl: "https://sunny-kataria.github.io/password-generator/"
+  
+  {   id: 2,
+       src: shoppingcart,
+      githubUrl: "https://main--reactreduxaddtocart.netlify.app/"
   },
+
   {
     id: 3,
-    src: shoppingcart,
-    githubUrl: " https://main--reactreduxaddtocart.netlify.app/"
+    src: SearchImage,
+    githubUrl: " https://searchimage01.netlify.app/"
     
   },
   {
     id: 4,
-    src: SearchImage,
-    githubUrl: "https://searchimage01.netlify.app/"
+    src: tictactoe,
+    githubUrl: "https://sunny-kataria.github.io/tic-tac-toe/"
   },
   {
     id: 5,
