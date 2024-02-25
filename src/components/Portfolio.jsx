@@ -75,7 +75,6 @@
 
 import React from "react";
 import tictactoe from "../assets/portfolio/tictactoe.jpg";
-import password from "../assets/portfolio/password.jpg";
 import portfolio from "../assets/portfolio/portfolio.jpg";
 import SearchImage from "../assets/portfolio/SearchImage.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
