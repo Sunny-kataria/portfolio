@@ -85,7 +85,7 @@ const portfolios = [
   {
     id: 1,
     src: chatApp,
-    githubUrl: "https://chat-app-4.onrender.com/"
+    githubUrl: "https://talk-a-tive-7fgq.onrender.com/"
   },
   
   {   id: 2,
